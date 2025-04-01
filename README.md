@@ -1,5 +1,3 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
 
 ## 📊 Introduction
 ------
@@ -35,7 +33,3 @@
 [OSINT/ GOEINT Data Analysis & Modelling](https://www.youtube.com/watch?v=82nhGX_v9rE)
 - CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
 
-![newyork](assets/img/newyork.jpeg)
-
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
