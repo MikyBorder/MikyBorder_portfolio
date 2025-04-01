@@ -28,8 +28,8 @@
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/Aiffelthon.png)
+![trash](assets/img/Project_Aiffelthon.png)
 
-[OSINT/ GOEINT Data Analysis & Modelling](https://www.youtube.com/watch?v=82nhGX_v9rE)
+[OSINT/ GOEINT Data Analysis & Modelling](https://github.com/Kyungdeok-Koo/GeOdyssey)
 - CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
 
